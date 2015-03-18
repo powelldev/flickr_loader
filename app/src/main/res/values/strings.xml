@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MichaelPowell Raizlabs</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="contentDescription">Picture loaded from flickr</string>
+    <string name="error_no_images">No images parsed. Please check internet connection.</string>
+</resources>
